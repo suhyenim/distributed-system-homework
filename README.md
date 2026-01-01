@@ -1,4 +1,4 @@
-# Distributed system Implementation Projects
+# Distributed system Implementation Homework
 
 UDP, Distributed key-value stores, Look-aside cache, Power of two choices(Load balancing), Primary-backup, Consensus protocol 등 분산시스템 설계 및 구현
 ```
